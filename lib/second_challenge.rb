@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
 
-  
+  myList=groceries.values.join(", ").split(", ")
 
 end
